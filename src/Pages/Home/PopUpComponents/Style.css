@@ -1,0 +1,188 @@
+#onGridDetailsPopup {
+    background: url(https://ongrid.in/images/home/offerings-onGrid1.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+}
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+.popupHeader {
+    background-color: rgba(0,0,0,.83);
+    color: #fff;
+    text-align: left;
+    padding: 34px 40px;
+    font-size: 16px;
+    border-bottom: solid 7px #34d0d0;
+}
+.popupHeader h1 {
+    margin: 0!important;
+    margin-bottom: 10px!important;
+}
+#offeringsNew h1 {
+    font-family: Roboto;
+    margin-top: 51px;
+}
+.hoverButton a, .hoverButton a:active, .hoverButton a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.bookOnGridDemo {
+    color: #fff;
+    border-radius: 65px;
+    padding: 10px;
+    background: #34D0D0 0 0 no-repeat padding-box;
+    opacity: 1;
+    right: 30px;
+    position: absolute;
+}
+.popupDescription {
+    padding: 34px 40px;
+    color: #fff;
+    text-align: left;
+    font-size: 16px;
+}
+.descText {
+    font-size: 19px;
+    padding-left: 15px;
+}
+.pull-left {
+    float: left!important;
+}
+.ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: -30px;
+}
+.li {
+    background: url(https://ongrid.in/images/home/bullet-polygon.svg) no-repeat left top;
+    height: auto;
+    padding-left: 44px;
+    margin-top: 15px;
+    text-align: justify;
+}
+p {
+    margin-bottom: 30px;
+}
+#gridlinesDetailsPopup {
+    background: url(https://ongrid.in/images/home/offerings-gridlines1.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    height: 500px;
+}
+#eLockrDetailsPopup {
+    background: url(https://ongrid.in/images/home/offerings-eLockr1.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    height: 450px;
+    top: 1px;
+}
+#onDemandPopup {
+    background: url(https://ongrid.in/images/home/education.png);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+.descRow {
+    margin-bottom: 20px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.pull-left {
+    float: left!important;
+}
+.descIcon>i {
+    font-size: 54px;
+}
+.descText {
+    font-size: 19px;
+    padding-left: 15px;
+}
+#staffingPopup {
+    background: url(https://ongrid.in/images/home/man-162951_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#logisticsAndTransportationPopup {
+    background: url(https://ongrid.in/images/home/logistics-852936_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#hospitalityPopup {
+    background: url(https://ongrid.in/images/home/banking.png);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#retailPopup {
+    background: url(https://ongrid.in/images/home/shopping-1165437_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#manufacturingPopup {
+    background: url(https://ongrid.in/images/home/excavators-1174428_1920.jpg);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#informationTechnologyPopup {
+    background: url(https://ongrid.in/images/home/informationTechnology.png);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#healthcarePopup {
+    background: url(https://ongrid.in/images/home/healthcare.png);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#internetPlatformsPopup {
+    background: url(https://ongrid.in/images/home/internetPlatforms.png);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 1px;
+    box-shadow: inset 0 0 0 1000px rgba(5,46,46,.85);
+}
+#business .col-md-4 {
+    padding: 1px;
+}

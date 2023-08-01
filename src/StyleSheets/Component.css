@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.nav-book-btn {
+  font-size: 12px;
+  color: #fff;
+  background: 0 0;
+  line-height: 20px;
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  border: 1px solid white;
+  border-radius: 40px;
+  margin-right: 10px;
+}
+.nav-index{
+    z-index: 1;
+}
+Link {
+  cursor: pointer;
+}
+HashLink {
+  cursor: pointer;
+}
+.Just-center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+#footer {
+  background-color: #232835;
+  color: #fff;
+  padding: 0 0 10px 0;
+  font-family: Roboto;
+}
+#footer .row > div {
+  padding-top: 20px;
+}
+#footer .footerHeader {
+  font-size: 18px;
+  line-height: 40px;
+}
+#footer a,
+#footer a:active,
+#footer a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+#footer .socialIcons {
+  width: 40px;
+  height: 40px;
+  margin-right: 1px;
+}
+.footerHr{
+    margin-bottom: 5px;
+}
+.companyName{
+    font-size: 10px;
+}
+
+
+@media screen and (max-width: 768px) {
+  .nav-book-btn {
+    width: 100px;
+    text-align: center;
+  }
+}
