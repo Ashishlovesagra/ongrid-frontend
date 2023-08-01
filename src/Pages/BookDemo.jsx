@@ -1,5 +1,5 @@
 import React from 'react';
-import '../StyleSheets/about.css';
+// import '../StyleSheets/about.css';
 import { Link } from 'react-router-dom';
 
 function BookDemo() {
